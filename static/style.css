@@ -1,0 +1,47 @@
+.jumbotron{
+    background-color: rgb(219, 13, 133);
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.original{
+    background-color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.summary{
+    background-color: green;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+.str{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.originaltxt{
+    background-color:rgb(142, 216, 22);
+    padding: 20px;
+
+}
+.summarytxt{
+    background-color:rgb(22, 216, 125);
+    padding: 20px;
+    margin-left: 10px;
+}
+
+.sourav{
+    margin-top: 20px;
+    font-size:20px;
+    font-weight: bold;
+    
+}
+body{
+    background-color: rgb(23, 233, 145);
+}
